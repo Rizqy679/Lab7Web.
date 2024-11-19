@@ -5,3 +5,5 @@
 Hasil Output
 
 ![alt text](https://github.com/Rizqy679/Lab7Web./blob/main/1.jpg)
+
+![alt text](https://github.com/Rizqy679/Lab7Web./blob/main/2.jpg)
